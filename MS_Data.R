@@ -11,8 +11,8 @@ library(stringr)
 ###### Data Import and Cleaning #######
 
 # Read in Raw Data Control Data vs. MS Data
-CT <- read.csv("/Users/ScottSchumacker/Desktop/MS_CTData - Sheet1.csv", header = F)
-MS <- read.csv("/Users/ScottSchumacker/Desktop/MS_MSData - Sheet1.csv", header = F)
+CT <- read.csv("", header = F)
+MS <- read.csv("", header = F)
 
 # Viewing Raw Data
 View(CT)
